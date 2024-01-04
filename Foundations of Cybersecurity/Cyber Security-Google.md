@@ -1,7 +1,4 @@
-Course Link - https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/qk2Wx/google-cybersecurity-certificate-overview
-
-Challenge Link- https://drive.google.com/file/d/1ea5goes7Lva6dfOGdVMafNSgUZPrpwjp/view
-
+# Introduction to CyberSecurity -
 
 ### Program Overview-
 
